@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# snehal-react-app
+
+This is my first React project with Create React App. It demonstrates a simple React component with custom styling.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
