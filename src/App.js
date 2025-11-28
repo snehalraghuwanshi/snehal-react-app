@@ -14,8 +14,9 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >
+        > 
          Snehal and swati learn React
+         under the guidance of prashant sir.
         </a>
       </header>
     </div>
